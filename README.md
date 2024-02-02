@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FYP which is Counteracting DDoS Vulnerabilities in IoT Networks: Analysis, Simulation, and Defense**
+- 🔭 I’m currently working on **My FYP which is Counteracting DDoS Vulnerabilities in IoT Networks: Analysis, Simulation, and Defense**
 
 - 🌱 I’m currently learning **CCNP**
 
